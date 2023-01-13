@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.808ex" height="2.343ex" style="vertical-align: -0.338ex;" viewBox="0 -863.1 778.5 1008.6" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle \curlyeqprec }</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJAMS-22DE" d="M113 424Q83 424 83 444Q83 453 96 464H121Q181 466 234 474T341 501T435 545T505 613T542 707Q545 734 564 734Q583 731 583 714Q583 658 560 613T500 538T414 486T321 453T229 434T156 426T113 424ZM112 270Q83 270 83 290Q83 301 94 307Q98 310 118 310Q624 310 653 556Q657 580 675 580Q693 577 693 559V552Q684 472 628 410T465 314Q436 303 372 290Q373 290 388 287T425 278T465 266Q674 199 693 28L694 17L692 14Q691 11 689 8T683 3T673 0Q657 0 653 24Q623 270 118 270H112Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJAMS-22DE" x="0" y="0"></use>
+</g>
+</svg>

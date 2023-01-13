@@ -1,0 +1,706 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.7.9)  18 JUL 2022 02:48
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**Tex.tex
+(./Tex.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-04-10>
+(/usr/share/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+(/usr/share/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/usr/share/texmf-dist/tex/generic/babel/babel.sty
+Package: babel 2022/02/26 3.73 The Babel package
+\babel@savecnt=\count193
+\U@D=\dimen139
+\l@unhyphenated=\language87
+
+(/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count194
+
+(/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
+Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'canadian' set to \l@english
+(babel)             (\language0). Reported on input line 102.
+Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
+(babel)             (\language21). Reported on input line 108.
+)
+(/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
+File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
+Language: russian 2020/09/09 1.3k Russian support for the Babel system
+
+
+Package babel Warning: No Cyrillic font encoding has been loaded so far.
+(babel)                A font encoding should be declared before babel.
+(babel)                Default `T2A' encoding will be loaded  on input line 78.
+
+
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2aenc.def
+File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+Now handling font encoding T2A ...
+... processing UTF-8 mapping file for font encoding T2A
+
+(/usr/share/texmf-dist/tex/latex/base/t2aenc.dfu
+File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0237 (decimal 567)
+   defining Unicode char U+0400 (decimal 1024)
+   defining Unicode char U+0401 (decimal 1025)
+   defining Unicode char U+0402 (decimal 1026)
+   defining Unicode char U+0403 (decimal 1027)
+   defining Unicode char U+0404 (decimal 1028)
+   defining Unicode char U+0405 (decimal 1029)
+   defining Unicode char U+0406 (decimal 1030)
+   defining Unicode char U+0407 (decimal 1031)
+   defining Unicode char U+0408 (decimal 1032)
+   defining Unicode char U+0409 (decimal 1033)
+   defining Unicode char U+040A (decimal 1034)
+   defining Unicode char U+040B (decimal 1035)
+   defining Unicode char U+040C (decimal 1036)
+   defining Unicode char U+040D (decimal 1037)
+   defining Unicode char U+040E (decimal 1038)
+   defining Unicode char U+040F (decimal 1039)
+   defining Unicode char U+0410 (decimal 1040)
+   defining Unicode char U+0411 (decimal 1041)
+   defining Unicode char U+0412 (decimal 1042)
+   defining Unicode char U+0413 (decimal 1043)
+   defining Unicode char U+0414 (decimal 1044)
+   defining Unicode char U+0415 (decimal 1045)
+   defining Unicode char U+0416 (decimal 1046)
+   defining Unicode char U+0417 (decimal 1047)
+   defining Unicode char U+0418 (decimal 1048)
+   defining Unicode char U+0419 (decimal 1049)
+   defining Unicode char U+041A (decimal 1050)
+   defining Unicode char U+041B (decimal 1051)
+   defining Unicode char U+041C (decimal 1052)
+   defining Unicode char U+041D (decimal 1053)
+   defining Unicode char U+041E (decimal 1054)
+   defining Unicode char U+041F (decimal 1055)
+   defining Unicode char U+0420 (decimal 1056)
+   defining Unicode char U+0421 (decimal 1057)
+   defining Unicode char U+0422 (decimal 1058)
+   defining Unicode char U+0423 (decimal 1059)
+   defining Unicode char U+0424 (decimal 1060)
+   defining Unicode char U+0425 (decimal 1061)
+   defining Unicode char U+0426 (decimal 1062)
+   defining Unicode char U+0427 (decimal 1063)
+   defining Unicode char U+0428 (decimal 1064)
+   defining Unicode char U+0429 (decimal 1065)
+   defining Unicode char U+042A (decimal 1066)
+   defining Unicode char U+042B (decimal 1067)
+   defining Unicode char U+042C (decimal 1068)
+   defining Unicode char U+042D (decimal 1069)
+   defining Unicode char U+042E (decimal 1070)
+   defining Unicode char U+042F (decimal 1071)
+   defining Unicode char U+0430 (decimal 1072)
+   defining Unicode char U+0431 (decimal 1073)
+   defining Unicode char U+0432 (decimal 1074)
+   defining Unicode char U+0433 (decimal 1075)
+   defining Unicode char U+0434 (decimal 1076)
+   defining Unicode char U+0435 (decimal 1077)
+   defining Unicode char U+0436 (decimal 1078)
+   defining Unicode char U+0437 (decimal 1079)
+   defining Unicode char U+0438 (decimal 1080)
+   defining Unicode char U+0439 (decimal 1081)
+   defining Unicode char U+043A (decimal 1082)
+   defining Unicode char U+043B (decimal 1083)
+   defining Unicode char U+043C (decimal 1084)
+   defining Unicode char U+043D (decimal 1085)
+   defining Unicode char U+043E (decimal 1086)
+   defining Unicode char U+043F (decimal 1087)
+   defining Unicode char U+0440 (decimal 1088)
+   defining Unicode char U+0441 (decimal 1089)
+   defining Unicode char U+0442 (decimal 1090)
+   defining Unicode char U+0443 (decimal 1091)
+   defining Unicode char U+0444 (decimal 1092)
+   defining Unicode char U+0445 (decimal 1093)
+   defining Unicode char U+0446 (decimal 1094)
+   defining Unicode char U+0447 (decimal 1095)
+   defining Unicode char U+0448 (decimal 1096)
+   defining Unicode char U+0449 (decimal 1097)
+   defining Unicode char U+044A (decimal 1098)
+   defining Unicode char U+044B (decimal 1099)
+   defining Unicode char U+044C (decimal 1100)
+   defining Unicode char U+044D (decimal 1101)
+   defining Unicode char U+044E (decimal 1102)
+   defining Unicode char U+044F (decimal 1103)
+   defining Unicode char U+0450 (decimal 1104)
+   defining Unicode char U+0451 (decimal 1105)
+   defining Unicode char U+0452 (decimal 1106)
+   defining Unicode char U+0453 (decimal 1107)
+   defining Unicode char U+0454 (decimal 1108)
+   defining Unicode char U+0455 (decimal 1109)
+   defining Unicode char U+0456 (decimal 1110)
+   defining Unicode char U+0457 (decimal 1111)
+   defining Unicode char U+0458 (decimal 1112)
+   defining Unicode char U+0459 (decimal 1113)
+   defining Unicode char U+045A (decimal 1114)
+   defining Unicode char U+045B (decimal 1115)
+   defining Unicode char U+045C (decimal 1116)
+   defining Unicode char U+045D (decimal 1117)
+   defining Unicode char U+045E (decimal 1118)
+   defining Unicode char U+045F (decimal 1119)
+   defining Unicode char U+0490 (decimal 1168)
+   defining Unicode char U+0491 (decimal 1169)
+   defining Unicode char U+0492 (decimal 1170)
+   defining Unicode char U+0493 (decimal 1171)
+   defining Unicode char U+0496 (decimal 1174)
+   defining Unicode char U+0497 (decimal 1175)
+   defining Unicode char U+0498 (decimal 1176)
+   defining Unicode char U+0499 (decimal 1177)
+   defining Unicode char U+049A (decimal 1178)
+   defining Unicode char U+049B (decimal 1179)
+   defining Unicode char U+049C (decimal 1180)
+   defining Unicode char U+049D (decimal 1181)
+   defining Unicode char U+04A0 (decimal 1184)
+   defining Unicode char U+04A1 (decimal 1185)
+   defining Unicode char U+04A2 (decimal 1186)
+   defining Unicode char U+04A3 (decimal 1187)
+   defining Unicode char U+04A4 (decimal 1188)
+   defining Unicode char U+04A5 (decimal 1189)
+   defining Unicode char U+04AA (decimal 1194)
+   defining Unicode char U+04AB (decimal 1195)
+   defining Unicode char U+04AE (decimal 1198)
+   defining Unicode char U+04AF (decimal 1199)
+   defining Unicode char U+04B0 (decimal 1200)
+   defining Unicode char U+04B1 (decimal 1201)
+   defining Unicode char U+04B2 (decimal 1202)
+   defining Unicode char U+04B3 (decimal 1203)
+   defining Unicode char U+04B6 (decimal 1206)
+   defining Unicode char U+04B7 (decimal 1207)
+   defining Unicode char U+04B8 (decimal 1208)
+   defining Unicode char U+04B9 (decimal 1209)
+   defining Unicode char U+04BA (decimal 1210)
+   defining Unicode char U+04BB (decimal 1211)
+   defining Unicode char U+04C0 (decimal 1216)
+   defining Unicode char U+04C1 (decimal 1217)
+   defining Unicode char U+04C2 (decimal 1218)
+   defining Unicode char U+04D0 (decimal 1232)
+   defining Unicode char U+04D1 (decimal 1233)
+   defining Unicode char U+04D2 (decimal 1234)
+   defining Unicode char U+04D3 (decimal 1235)
+   defining Unicode char U+04D4 (decimal 1236)
+   defining Unicode char U+04D5 (decimal 1237)
+   defining Unicode char U+04D6 (decimal 1238)
+   defining Unicode char U+04D7 (decimal 1239)
+   defining Unicode char U+04D8 (decimal 1240)
+   defining Unicode char U+04D9 (decimal 1241)
+   defining Unicode char U+04DA (decimal 1242)
+   defining Unicode char U+04DB (decimal 1243)
+   defining Unicode char U+04DC (decimal 1244)
+   defining Unicode char U+04DD (decimal 1245)
+   defining Unicode char U+04DE (decimal 1246)
+   defining Unicode char U+04DF (decimal 1247)
+   defining Unicode char U+04E2 (decimal 1250)
+   defining Unicode char U+04E3 (decimal 1251)
+   defining Unicode char U+04E4 (decimal 1252)
+   defining Unicode char U+04E5 (decimal 1253)
+   defining Unicode char U+04E6 (decimal 1254)
+   defining Unicode char U+04E7 (decimal 1255)
+   defining Unicode char U+04E8 (decimal 1256)
+   defining Unicode char U+04E9 (decimal 1257)
+   defining Unicode char U+04EC (decimal 1260)
+   defining Unicode char U+04ED (decimal 1261)
+   defining Unicode char U+04EE (decimal 1262)
+   defining Unicode char U+04EF (decimal 1263)
+   defining Unicode char U+04F0 (decimal 1264)
+   defining Unicode char U+04F1 (decimal 1265)
+   defining Unicode char U+04F2 (decimal 1266)
+   defining Unicode char U+04F3 (decimal 1267)
+   defining Unicode char U+04F4 (decimal 1268)
+   defining Unicode char U+04F5 (decimal 1269)
+   defining Unicode char U+04F8 (decimal 1272)
+   defining Unicode char U+04F9 (decimal 1273)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2423 (decimal 9251)
+   defining Unicode char U+27E8 (decimal 10216)
+   defining Unicode char U+27E9 (decimal 10217)
+   defining Unicode char U+FB00 (decimal 64256)
+   defining Unicode char U+FB01 (decimal 64257)
+   defining Unicode char U+FB02 (decimal 64258)
+   defining Unicode char U+FB03 (decimal 64259)
+   defining Unicode char U+FB04 (decimal 64260)
+   defining Unicode char U+FB05 (decimal 64261)
+   defining Unicode char U+FB06 (decimal 64262)
+))
+Package babel Info: Making " an active character on input line 124.
+Package babel Info: Default for \cyrdash is provided on input line 163.
+))
+(/usr/share/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
+12.
+
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmr.fd
+File: t2acmr.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+))
+(/usr/share/texmf-dist/tex/latex/base/inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks16
+\inpenc@posthook=\toks17
+)
+(/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
+Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+\every@verbatim=\toks18
+\verbatim@line=\toks19
+\verbatim@in@stream=\read3
+)
+(/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count195
+\l__pdf_internal_box=\box50
+) (./Tex.aux)
+\openout1 = `Tex.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Font Info:    Checking defaults for T2A/cmr/m/n on input line 7.
+LaTeX Font Info:    ... okay on input line 7.
+LaTeX Info: Redefining \th on input line 7.
+
+Overfull \hbox (0.91852pt too wide) in paragraph at lines 11--12
+\T2A/cmr/m/n/12 про-грам-ми-ро-ва-нии ина-че осва-и-вать слож-нее), но крайне у
+про-ща-ет жизнь
+ []
+
+LaTeX Font Info:    Trying to load font information for T2A+cmtt on input line 
+13.
+(/usr/share/texmf-dist/tex/latex/cyrillic/t2acmtt.fd
+File: t2acmtt.fd 2001/08/11 v1.0a Computer Modern Cyrillic font definitions
+)
+Overfull \hbox (215.79233pt too wide) in paragraph at lines 13--14
+[]\T2A/cmr/m/n/12 *Первый при-мер*. Ко-ман-ды име-ют вид [][]\T2A/cmtt/m/n/12 \
+command[args]{args}[]\T2A/cmr/m/n/12 . [][]\T2A/cmtt/m/n/12 \documentclass[a4pa
+per, 12pt]{article} []\T2A/cmr/m/n/12 ^^V
+ []
+
+[1
+
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (0.43114pt too wide) in paragraph at lines 29--30
+[]\T2A/cmr/m/n/12 *четвјртый при-мер* Рас-по-ло-же-ние ин-дек-сов, оди-ноч-ные 
+ин-дек-сы, ин-
+ []
+
+
+Overfull \hbox (159.48108pt too wide) in paragraph at lines 39--40
+\T2A/cmr/m/n/12 ный, ис-поль-зу-ю-щий об-ла-сти ви-ди-мо-сти и мо-ди-фи-ка-то-р
+ы ([][]\T2A/cmtt/m/n/12 {\bfseries \itshape text} notbold text[]\T2A/cmr/m/n/12
+ )
+ []
+
+
+Overfull \hbox (188.08876pt too wide) in paragraph at lines 39--40
+\T2A/cmr/m/n/12 *ше-стой пр-мер*. Есть мо-ди-фи-ка-то-ры для раз-ме-ра тек-ста 
+([][]\T2A/cmtt/m/n/12 \Huge, \LARGE, \Large, \normalsize, \small[]\T2A/cmr/m/n/
+12 ).
+ []
+
+
+Overfull \hbox (3.1484pt too wide) in paragraph at lines 41--42
+\T2A/cmr/m/n/12 вать текст. Ис-поль-зу-ем так: [][]\T2A/cmtt/m/n/12 \begin{envi
+ronment}...\end{environment}[]\T2A/cmr/m/n/12 .
+ []
+
+[2]
+
+LaTeX Warning: Characters dropped after `\end{verbatim}' on input line 51.
+
+
+Overfull \hbox (36.22493pt too wide) in paragraph at lines 59--60
+\T2A/cmr/m/n/12 Основные раз-де-лы, по убы-ва-нию: part, chapter, section, subs
+ection, subsubsection,
+ []
+
+
+Overfull \hbox (0.33116pt too wide) in paragraph at lines 59--60
+\T2A/cmr/m/n/12 paragraph, subparagraph (че-му со-от-вет-ству-ет ^^U очев про-с
+то пе-ре-вод). Син-
+ []
+
+[3]
+Overfull \hbox (75.82576pt too wide) in paragraph at lines 102--103
+\T2A/cmr/m/n/12 рус-ско-языч-ной ти-по-гра-фии, сле-ду-ет ис-поль-зо-вать ко-ма
+н-ду [][]\T2A/cmtt/m/n/12 \usepackage{indentfirst} 
+ []
+
+[4]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 108.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 108.
+
+Overfull \hbox (5.25484pt too wide) in paragraph at lines 108--109
+[]\T2A/cmr/m/n/12 Изображения. Для встав-ки изоб-ра-же-ний есть [][]\T2A/cmtt/m
+/n/12 \includegraphics{...}[]\T2A/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (219.64073pt too wide) in paragraph at lines 108--109
+\T2A/cmr/m/n/12 ре-гу-ли-ро-вать вы-со-ту/ширину, на-при-мер $\OT1/cmr/m/n/12 0
+\OML/cmm/m/it/12 :\OT1/cmr/m/n/12 8$ \T2A/cmr/m/n/12 ши-ри-ны тек-ста: [][]\T2A
+/cmtt/m/n/12 \includegraphics[width=0.8\textwidth\{img/cat}[]\T2A/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (4.89943pt too wide) in paragraph at lines 110--111
+\T2A/cmr/m/n/12 манд есть ко-ман-да [][]\T2A/cmtt/m/n/12 \newcommand{name_of_co
+mmand}[num_of_args]{code}[]\T2A/cmr/m/n/12 ,
+ []
+
+
+Overfull \hbox (72.12321pt too wide) in paragraph at lines 120--121
+[]\T2A/cmr/m/n/12 Создание сво-их опе-ра-то-ров. [][]\T2A/cmtt/m/n/12 \DeclareM
+athOperator{command}{text_of_operator}[]\T2A/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (29.43224pt too wide) in paragraph at lines 122--123
+[]\T2A/cmr/m/n/12 Создание би-нар-ных опе-ра-то-ров. [][]\T2A/cmtt/m/n/12 \newc
+ommand{\precent}{\mathbin{\%}} []\T2A/cmr/m/n/12 ^^V
+ []
+
+
+Overfull \hbox (4.21289pt too wide) in paragraph at lines 124--125
+\T2A/cmr/m/n/12 enumerate (ну-ме-ро-ван-ный), каж-дый эле-мент на-чи-на-ет-ся с
+ ко-ман-ды [][]\T2A/cmtt/m/n/12 \item[]\T2A/cmr/m/n/12 .
+ []
+
+
+Overfull \hbox (84.91458pt too wide) in paragraph at lines 124--125
+\T2A/cmr/m/n/12 ка, с по-мо-щью ар-гу-мен-тов в квад-рат-ных ско-боч-ках: [][]\
+T2A/cmtt/m/n/12 \begin{enumerate}[label=\alph*)]
+ []
+
+[5]
+Overfull \hbox (63.85995pt too wide) in paragraph at lines 132--133
+[]\T2A/cmr/m/n/12 Создание окру-же-ний. [][]\T2A/cmtt/m/n/12 \newenvironment{na
+me}{start commands}{end commands}[]\T2A/cmr/m/n/12 .
+ []
+
+[6]
+Overfull \hbox (5.12227pt too wide) in paragraph at lines 165--166
+\T2A/cmr/m/n/12 скоб-ку пе-рей-дјм к фор-му-ле, для это-го ис-поль-зу-ем [][]\T
+2A/cmtt/m/n/12 \eqref{}, \pageref{}[]\T2A/cmr/m/n/12 ,
+ []
+
+[7]
+Overfull \hbox (64.7529pt too wide) in paragraph at lines 167--168
+[]\T2A/cmr/m/n/12 Можно де-лать ссыл-ки на внеш-ние сай-ты с по-мо-щью ко-ман-д
+ы [][]\T2A/cmtt/m/n/12 \href{link}{text}[]\T2A/cmr/m/n/12 . 
+ []
+
+
+Overfull \hbox (15.66763pt too wide) in paragraph at lines 177--179
+[][]\T2A/cmtt/m/n/12 \thename, \arabic{name}(\thename), \roman{name}[]\T2A/cmr/
+m/n/12 (маленькие рим-ские),
+ []
+
+[8]
+Overfull \hbox (684.18768pt too wide) in paragraph at lines 209--209
+[]\T2A/cmtt/m/n/12 Подключение pdf-файлов. Есть разные пакеты, поговорим про pd
+fpages. Синтаксис: \includepdf[pages={1, 3, 5-6}]{filename.pdf}. У пакета есть 
+удобная документация в случае чего. 
+ []
+
+
+Overfull \hbox (2097.91745pt too wide) in paragraph at lines 210--210
+[]\T2A/cmtt/m/n/12 Графика в техе и пакет tikz-cd. Вообще tikz ^^U это инструме
+нт в техе для создания векторной графики. Для работы с коммутативными диаграмма
+ми есть специальный пакет tikzcd. Пока ограничимся им. *пример использования ti
+kzcd*. Пакет устроен как многострочное окружение. \arrow ^^U стрелка, \dashrigh
+tarrow ^^U стрелка пунктиром, в фигурных скобках после указывается направление 
+буквами. swap меняет направление.[] 
+ []
+
+
+Overfull \hbox (350.81909pt too wide) in paragraph at lines 214--214
+[]\T2A/cmtt/m/n/12 Путь ^^U основной блок всех рисунков в TikZ. Он состоит из т
+очек (x, y) и --. Весь код помещается в окружении tikzpicture.[] 
+ []
+
+
+Overfull \hbox (48.31796pt too wide) in paragraph at lines 217--217
+[]\T2A/cmtt/m/n/12 \end{tikzpicture} ^^U Получится отзеркаленная относительно (
+0,0) четвјрка[] 
+ []
+
+
+Overfull \hbox (529.85037pt too wide) in paragraph at lines 219--219
+[]\T2A/cmtt/m/n/12 Для круга -- заменяем на circle(10pt);, для эллипса на ellip
+se (20pt and 10pt);, также можно повернуть, написав [rotate=30], после эллипса 
+к примеру.[] 
+ []
+
+
+Overfull \hbox (171.78781pt too wide) in paragraph at lines 220--220
+[]\T2A/cmtt/m/n/12 Для сетки используем grid, кстати, в начале можем явно указы
+вать откуда начинать рисовать. [] 
+ []
+
+
+Overfull \hbox (690.36118pt too wide) in paragraph at lines 221--221
+[]\T2A/cmtt/m/n/12 \draw [xstep=0.4, ystep=0.5] (0,0)  grid (2,2); (есть и прос
+то аргумент step). *пример со всем* Кроме того, можно указать в квадратных скоб
+ках цвет и толщину [gray, very thin][] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 222--222
+[]\T2A/cmtt/m/n/12 Сетка ^^U вспомогательные линии, для них можно сделать свой 
+стиль:[] 
+ []
+
+
+Overfull \hbox (54.49146pt too wide) in paragraph at lines 225--225
+[]\T2A/cmtt/m/n/12 Можно выстраивать иерархию стилей и передавать свои параметр
+ы, например:[] 
+ []
+
+[9]
+Overfull \hbox (350.81909pt too wide) in paragraph at lines 230--230
+[]\T2A/cmtt/m/n/12 Можно передавать и несколько параметров (но это путь для сам
+ураев): \tikzset{name/.style n args={..., param = #k, ...} }[] 
+ []
+
+LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
+232.
+(/usr/share/texmf-dist/tex/latex/base/ts1cmtt.fd
+File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (394.03354pt too wide) in paragraph at lines 246--246
+[]\T2A/cmtt/m/n/12 Можно задавать полярные координаты (angle:radius), можно в п
+ути указывать координаты относительно последней точки -- +(...) --.[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 247--247
+[]\T2A/cmtt/m/n/12 cycle ^^U зациклить путь, указываем вместо точки в пути, воз
+вращает в начало[] 
+ []
+
+
+Overfull \hbox (1492.91519pt too wide) in paragraph at lines 249--249
+[]\T2A/cmtt/m/n/12 Обычные стрелочки выглядят некрасиво, поэтому можно передать
+ аргументом для всего окружения >=stealth, например. Ещј есть ->, ->>. Кстати, 
+дугу можно делать и от эллипса. Вместо стрелочки можно писать еј название, напр
+имер -latex. Есть параметр scale (в квадратных скобках), меняет масштаб только 
+рисунка![] 
+ []
+
+
+Overfull \hbox (42.14447pt too wide) in paragraph at lines 250--250
+[]\T2A/cmtt/m/n/12 Для расположения точки используем команду \coordinate (name)
+ at (pos);[] 
+ []
+
+
+Overfull \hbox (165.61432pt too wide) in paragraph at lines 251--251
+[]\T2A/cmtt/m/n/12 \node ^^U полезная конструкция для узлов, пример \node[draw,
+ circle, through=(A)] at (B) {};[] 
+ []
+
+
+Overfull \hbox (363.16608pt too wide) in paragraph at lines 252--252
+[]\T2A/cmtt/m/n/12 Пакет tikzcalc позволяет проводить вычисления над точками: с
+кладывать их и всј такое прочее, т.е. например $(A) + (2, -1)$[] 
+ []
+
+
+Overfull \hbox (54.49146pt too wide) in paragraph at lines 253--253
+[]\T2A/cmtt/m/n/12 (A | - B) ^^U точка на пересечении вертикали через A и гориз
+онтали через B[] 
+ []
+
+
+Overfull \hbox (239.69623pt too wide) in paragraph at lines 254--254
+[]\T2A/cmtt/m/n/12 ($(point)!length!(point1)$) ^^U точка на расстоянии length (
+мб отрицательном) от point в сторону point1.[] 
+ []
+
+
+Overfull \hbox (665.6672pt too wide) in paragraph at lines 257--257
+[]\T2A/cmtt/m/n/12 \tkzMarkAngle[mark=,arc=ll,size=10pt](C,D,B); ^^U отмечает у
+гол CDB, количество l после arc ^^U кол-во дуг, после mark можно поставить черт
+у или s, это для отрезков в основном[] 
+ []
+
+
+Overfull \hbox (5.10352pt too wide) in paragraph at lines 261--261
+[]\T2A/cmtt/m/n/12 В tikz есть циклы, но не только там, поэтому можно мутить та
+кое:[] 
+ []
+
+[10]
+Overfull \hbox (23.624pt too wide) in paragraph at lines 271--271
+[]\T2A/cmtt/m/n/12 Можно управлять тем, где будет название у точки: [label=abov
+e:name][] 
+ []
+
+
+Overfull \hbox (159.44083pt too wide) in paragraph at lines 272--272
+[]\T2A/cmtt/m/n/12 Пути и их пересечения. \node (E) [name intersections={of D a
+nd E, by={[label=above:$C$]C,[] 
+ []
+
+
+Overfull \hbox (307.60464pt too wide) in paragraph at lines 273--273
+[]\T2A/cmtt/m/n/12 [label=below:$C'$]C'}}]; ^^U назвали пересечение окружностей
+ D и E ^^U C и C'. Также можно делать, например с путями.[] 
+ []
+
+
+Overfull \hbox (177.9613pt too wide) in paragraph at lines 275--275
+[]\T2A/cmtt/m/n/12 Btw Класс документа standalone предназначен для выполнения к
+ак раз рисуночков и всего такого[] 
+ []
+
+
+Overfull \hbox (319.95163pt too wide) in paragraph at lines 276--276
+[]\T2A/cmtt/m/n/12 Btw для  использования пакетов именно tikz-а используем \use
+tikzlibrary{name} (например calc, intersections и т.д.)[] 
+ []
+
+
+Overfull \hbox (289.08417pt too wide) in paragraph at lines 281--281
+[]\T2A/cmtt/m/n/12 Презентации в LaTeX-е. Основы вјрстки презентаций. Теперь мы
+ используем класс документа \documentclass{beamer} 
+ []
+
+
+Overfull \hbox (1227.45502pt too wide) in paragraph at lines 282--282
+[]\T2A/cmtt/m/n/12 Слайды делаем с помощью окружения frame: \begin{frame}...\en
+d{frame}(но в одном фрейме может быть несколько слайдов) Внутри фрейма можно де
+лать почти всј то, что в обычном tex документе, но есть и свои особенности, так
+ как это динамичный документ, а не статичный[] 
+ []
+
+
+Overfull \hbox (73.01193pt too wide) in paragraph at lines 291--291
+[]\T2A/cmtt/m/n/12 Можно использовать AtBeginSection или похожие команды для ра
+боты с секциями[] 
+ []
+
+
+Overfull \hbox (313.77814pt too wide) in paragraph at lines 298--298
+[]\T2A/cmtt/m/n/12 Для теорем и выделения блоков текста используем окружение \b
+egin{block}{name}, теоремы и доказательства тоже блоки[] 
+ []
+
+
+Overfull \hbox (529.85037pt too wide) in paragraph at lines 300--300
+[]\T2A/cmtt/m/n/12 Когда разбиваем текст на несколько столбцов используем окруж
+ение columns, при этом можно настраивать ширину столбцов (внутри columns ^^U co
+lumn{width})[] 
+ []
+
+
+Overfull \hbox (1301.53693pt too wide) in paragraph at lines 301--301
+[]\T2A/cmtt/m/n/12 Оверлеи. Это основное отличие презентаций от документов. Мы 
+можем объединять несколько слайдов в фрейм, чтобы получать подобие анимации. У 
+списков есть встроенные спецификации для правильного отображения: \item<num-num
+>, можно без второго, определяет слайды, на которых есть[] 
+ []
+
+
+Overfull \hbox (54.49146pt too wide) in paragraph at lines 302--302
+[]\T2A/cmtt/m/n/12 Есть встроенные команды, помогающие работать с оверлеями в п
+резентациях:[] 
+ []
+
+
+Overfull \hbox (66.83844pt too wide) in paragraph at lines 303--303
+[]\TS1/cmtt/m/n/12 € \T2A/cmtt/m/n/12 pause: весь текст после этой команды пише
+тся только со следующего слайда[] 
+ []
+
+
+Overfull \hbox (233.52274pt too wide) in paragraph at lines 304--304
+[]\TS1/cmtt/m/n/12 € \T2A/cmtt/m/n/12 uncover: текст, который передајтся в каче
+стве аргумента, будет показан на слайде и всех последующих[] 
+ []
+
+
+Overfull \hbox (153.26733pt too wide) in paragraph at lines 306--306
+[]\T2A/cmtt/m/n/12 У textbf, textit, ... тоже есть спецификации для выделения т
+олько на выбранных страницах[] 
+ []
+
+[11]
+Overfull \hbox (73.01193pt too wide) in paragraph at lines 313--313
+[]\TS1/cmtt/m/n/12 € \T2A/cmtt/m/n/12 listings ^^U визуализация кода, на языках
+ программирования в tex документах[] 
+ []
+
+[12] (./Tex.aux) ) 
+Here is how much of TeX's memory you used:
+ 2258 strings out of 478238
+ 35178 string characters out of 5850457
+ 345374 words of memory out of 5000000
+ 20521 multiletter control sequences out of 15000+600000
+ 475366 words of font info for 43 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 41i,6n,52p,1768b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.
+enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/shar
+e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/f
+onts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/publ
+ic/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
+cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
+/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-di
+st/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/
+public/cm-super/sftt1200.pfb>
+Output written on Tex.pdf (12 pages, 179633 bytes).
+PDF statistics:
+ 91 PDF objects out of 1000 (max. 8388607)
+ 58 compressed objects within 1 object stream
+ 0 named destinations out of 1000 (max. 500000)
+ 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+

@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.808ex" height="2.176ex" style="vertical-align: -0.505ex;" viewBox="0 -719.6 778.5 936.9" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle \trianglelefteq }</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJAMS-22B4" d="M694 71Q686 58 676 56H670L382 192Q92 329 90 331Q83 336 83 346Q83 359 96 364Q101 367 379 498T665 634Q671 636 674 636Q686 636 694 621V71ZM654 108T654 346T653 584T402 466T151 346L275 287Q399 228 524 169T652 108Q654 108 654 346ZM83 -120Q83 -116 84 -113T86 -108T89 -104T92 -102T96 -100T99 -98H678Q679 -98 681 -99T684 -101T688 -104T691 -108T693 -113T694 -120Q692 -130 679 -138H98Q84 -130 83 -120Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJAMS-22B4" x="0" y="0"></use>
+</g>
+</svg>

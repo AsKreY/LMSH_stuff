@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.808ex" height="2.843ex" style="vertical-align: -0.838ex;" viewBox="0 -863.1 778.5 1223.9" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle \precsim }</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJAMS-227E" d="M84 442Q84 455 91 459T117 463Q120 463 126 463T137 462Q388 466 512 526T653 705Q657 732 676 732Q685 731 689 725T694 714V708Q689 662 672 624T626 559T569 513T500 479T435 458T373 442Q379 441 404 435T440 426T477 414T533 392Q592 362 630 319T681 241T694 174Q694 153 674 153Q662 153 657 163T652 188T640 231T606 287Q500 416 137 422H114Q104 422 98 423T88 428T84 442ZM56 -194Q56 -107 106 -51T222 6Q260 6 296 -12T362 -56T420 -108T483 -153T554 -171Q616 -171 654 -128T694 -29Q696 6 708 6Q722 6 722 -26Q722 -102 676 -164T557 -227Q518 -227 481 -209T415 -165T358 -113T294 -69T223 -51Q163 -51 125 -93T83 -196Q81 -228 69 -228Q56 -228 56 -202V-194Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJAMS-227E" x="0" y="0"></use>
+</g>
+</svg>

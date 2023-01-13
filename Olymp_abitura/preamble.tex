@@ -1,0 +1,18 @@
+\documentclass[a4paper, 12pt]{article}
+
+\usepackage[russian, english]{babel}
+\usepackage[utf8]{inputenc}
+\usepackage[T2A]{fontenc}
+\usepackage{geometry}
+\usepackage{amsmath}
+\usepackage{enumitem}
+
+\geometry{a4paper, top=20mm, left=25mm, right=25mm}
+
+\let\tan\relax
+\DeclareMathOperator{\tan}{tg}
+\DeclareMathOperator{\crg}{ctg}
+
+\makeatletter
+\AddEnumerateCounter{\asbuk}{\russian@alph}{щ}
+\makeatother

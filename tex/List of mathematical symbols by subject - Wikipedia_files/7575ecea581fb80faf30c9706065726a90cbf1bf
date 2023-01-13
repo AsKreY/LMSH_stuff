@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.808ex" height="1.509ex" style="vertical-align: 0.077ex; margin-bottom: -0.248ex;" viewBox="0 -576.1 778.5 649.8" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle \eqsim }</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJAMS-2242" d="M55 439T55 443T56 449T62 456T68 463H706Q720 449 720 443T706 423H68Q55 439 55 443ZM56 72Q56 112 73 152T130 225T224 257Q259 257 294 240T360 199T419 149T484 107T553 90Q603 90 643 125T691 223Q693 257 704 257Q717 257 717 221Q717 147 671 91T554 34Q517 34 481 51T414 93T355 142T291 184T222 201Q172 201 131 167T84 67Q81 34 71 34Q56 37 56 72Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJAMS-2242" x="0" y="0"></use>
+</g>
+</svg>

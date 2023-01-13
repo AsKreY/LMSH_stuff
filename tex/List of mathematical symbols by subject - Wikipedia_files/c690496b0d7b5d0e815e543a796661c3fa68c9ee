@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.808ex" height="1.509ex" style="vertical-align: 0.016ex; margin-bottom: -0.188ex;" viewBox="0 -576.1 778.5 649.8" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle \rtimes }</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJAMS-22CA" d="M146 472Q146 479 152 485T166 492Q171 492 189 475T279 386L386 279L495 386Q598 492 608 492Q615 492 628 479V21Q615 8 608 8Q599 8 495 115L386 221L279 115Q204 40 188 24T166 8Q159 8 153 14T146 28Q146 37 253 144L359 250L253 357Q146 464 146 472ZM588 77V424L499 337L415 250L588 77Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJAMS-22CA" x="0" y="0"></use>
+</g>
+</svg>

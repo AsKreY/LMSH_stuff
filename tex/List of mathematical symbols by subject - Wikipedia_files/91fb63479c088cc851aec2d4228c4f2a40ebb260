@@ -1,0 +1,9 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1.146ex" height="2.176ex" style="vertical-align: -0.171ex;" viewBox="0 -863.1 493.5 936.9" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle {}^{\intercal }}</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJAMS-22BA" d="M318 -182Q302 -212 280 -212H278H275Q249 -212 239 -182L238 84V351H162L87 352Q57 362 57 391T84 429Q89 431 280 431H470L474 429Q477 427 479 426T484 423T490 417T495 410T499 402T500 391Q500 365 470 352L394 351H318V-182Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use transform="scale(0.707)" xlink:href="#E1-MJAMS-22BA" x="0" y="583"></use>
+</g>
+</svg>

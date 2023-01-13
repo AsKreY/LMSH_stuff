@@ -1,0 +1,26 @@
+\babel@toc {russian}{}\relax 
+\contentsline {section}{Первый день}{3}{}%
+\contentsline {subsection}{НВП}{3}{}%
+\contentsline {subsection}{Графы и возведение матриц в степень}{5}{}%
+\contentsline {section}{ДЗ1}{6}{}%
+\contentsline {section}{Второй день}{6}{}%
+\contentsline {subsection}{ДП по маскам(по подмножествам)}{6}{}%
+\contentsline {subsection}{ДП по профилю}{9}{}%
+\contentsline {section}{ДЗ 2}{10}{}%
+\contentsline {section}{Третий день}{10}{}%
+\contentsline {subsection}{ДП на подотрезках}{10}{}%
+\contentsline {subsection}{Метод четырёх русских}{11}{}%
+\contentsline {subsection}{Convex hull trick}{12}{}%
+\contentsline {section}{Четвёртый день}{14}{}%
+\contentsline {subsection}{Корректность алгоритма построения нижней огибающей множества прямых сторон}{14}{}%
+\contentsline {subsection}{Графы. 2SAT}{14}{}%
+\contentsline {subsection}{Мосты и их поиск}{15}{}%
+\contentsline {section}{Пятый день}{16}{}%
+\contentsline {subsection}{Алгоритм A*}{16}{}%
+\contentsline {subsection}{Алгоритм Флойда}{18}{}%
+\contentsline {section}{Зачёт}{19}{}%
+\contentsline {subsection}{Задача 1(2 балла)}{19}{}%
+\contentsline {subsection}{Задача 2(3 балла)}{20}{}%
+\contentsline {subsection}{Задача 3(3 балла)}{20}{}%
+\contentsline {subsection}{Задача 4(4 балла)}{21}{}%
+\contentsline {subsection}{Задача 5(2 балла)}{21}{}%

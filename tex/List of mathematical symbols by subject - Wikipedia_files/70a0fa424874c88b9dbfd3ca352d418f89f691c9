@@ -1,0 +1,11 @@
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="3.486ex" height="2.009ex" style="vertical-align: -0.171ex;" viewBox="0 -791.3 1501 865.1" role="img" focusable="false" xmlns="http://www.w3.org/2000/svg" aria-labelledby="MathJax-SVG-1-Title">
+<title id="MathJax-SVG-1-Title">{\displaystyle \ulcorner ~~\urcorner }</title>
+<defs aria-hidden="true">
+<path stroke-width="1" id="E1-MJAMS-250C" d="M76 306Q62 306 59 319T55 386V500V596Q55 664 57 676T68 692Q71 694 250 694Q428 694 432 692Q444 685 444 674Q444 665 432 656Q428 654 261 654H95V487Q95 355 95 336T90 312Q84 306 76 306Z"></path>
+<path stroke-width="1" id="E1-MJAMS-2510" d="M424 306Q418 306 413 310T406 318L404 321V654H238Q71 654 68 656Q55 662 55 674T68 692Q71 694 250 694H379Q432 694 438 688Q443 683 443 662T444 500T444 338T438 312Q432 306 424 306Z"></path>
+</defs>
+<g stroke="currentColor" fill="currentColor" stroke-width="0" transform="matrix(1 0 0 -1 0 0)" aria-hidden="true">
+ <use xlink:href="#E1-MJAMS-250C" x="0" y="0"></use>
+ <use xlink:href="#E1-MJAMS-2510" x="1000" y="0"></use>
+</g>
+</svg>
