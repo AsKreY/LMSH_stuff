@@ -1,15 +1,15 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Arch Linux) (preloaded format=pdflatex 2022.7.9)  18 JUL 2022 02:48
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Arch Linux) (preloaded format=pdflatex 2023.6.29)  20 JUL 2023 02:57
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
 **Tex.tex
 (./Tex.tex
-LaTeX2e <2021-11-15> patch level 1
-L3 programming layer <2022-04-10>
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-02-22>
 (/usr/share/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+Document Class: article 2022/07/02 v1.4n Standard LaTeX document class
 (/usr/share/texmf-dist/tex/latex/base/size12.clo
-File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+File: size12.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 )
 \c@part=\count185
 \c@section=\count186
@@ -19,15 +19,15 @@ File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
 \c@subparagraph=\count190
 \c@figure=\count191
 \c@table=\count192
-\abovecaptionskip=\skip47
-\belowcaptionskip=\skip48
-\bibindent=\dimen138
+\abovecaptionskip=\skip48
+\belowcaptionskip=\skip49
+\bibindent=\dimen140
 )
 (/usr/share/texmf-dist/tex/generic/babel/babel.sty
-Package: babel 2022/02/26 3.73 The Babel package
+Package: babel 2023/02/13 3.86 The Babel package
 \babel@savecnt=\count193
-\U@D=\dimen139
-\l@unhyphenated=\language87
+\U@D=\dimen141
+\l@unhyphenated=\language12
 
 (/usr/share/texmf-dist/tex/generic/babel/txtbabel.def)
 \bbl@readstream=\read2
@@ -35,12 +35,16 @@ Package: babel 2022/02/26 3.73 The Babel package
 
 (/usr/share/texmf-dist/tex/generic/babel-english/english.ldf
 Language: english 2017/06/06 v3.3r English support from the babel system
+Package babel Info: Hyphen rules for 'british' set to \l@english
+(babel)             (\language0). Reported on input line 82.
+Package babel Info: Hyphen rules for 'UKenglish' set to \l@english
+(babel)             (\language0). Reported on input line 83.
 Package babel Info: Hyphen rules for 'canadian' set to \l@english
 (babel)             (\language0). Reported on input line 102.
-Package babel Info: Hyphen rules for 'australian' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 105.
-Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
-(babel)             (\language21). Reported on input line 108.
+Package babel Info: Hyphen rules for 'australian' set to \l@english
+(babel)             (\language0). Reported on input line 105.
+Package babel Info: Hyphen rules for 'newzealand' set to \l@english
+(babel)             (\language0). Reported on input line 108.
 )
 (/usr/share/texmf-dist/tex/generic/babel-russian/russianb.ldf
 File: russianb.ldf 2021/01/10 1.3m Russian support for the Babel system
@@ -53,12 +57,12 @@ Package babel Warning: No Cyrillic font encoding has been loaded so far.
 
 
 (/usr/share/texmf-dist/tex/latex/cyrillic/t2aenc.def
-File: t2aenc.def 2005/09/27 v1.0i Cyrillic encoding definition file
+File: t2aenc.def 2022/06/11 v1.0j Cyrillic encoding definition file
 Now handling font encoding T2A ...
 ... processing UTF-8 mapping file for font encoding T2A
 
 (/usr/share/texmf-dist/tex/latex/base/t2aenc.dfu
-File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
+File: t2aenc.dfu 2022/06/07 v1.3c UTF-8 support
    defining Unicode char U+00A4 (decimal 164)
    defining Unicode char U+00A7 (decimal 167)
    defining Unicode char U+00AB (decimal 171)
@@ -244,7 +248,9 @@ File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
    defining Unicode char U+2031 (decimal 8241)
    defining Unicode char U+2116 (decimal 8470)
    defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+3008 (decimal 12296)
    defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+3009 (decimal 12297)
    defining Unicode char U+2423 (decimal 9251)
    defining Unicode char U+27E8 (decimal 10216)
    defining Unicode char U+27E9 (decimal 10217)
@@ -259,6 +265,14 @@ File: t2aenc.dfu 2021/06/21 v1.2n UTF-8 support
 Package babel Info: Making " an active character on input line 124.
 Package babel Info: Default for \cyrdash is provided on input line 163.
 ))
+(/usr/share/texmf-dist/tex/generic/babel/locale/ru/babel-russian.tex
+Package babel Info: Importing font and identification data for russian
+(babel)             from babel-ru.ini. Reported on input line 11.
+)
+(/usr/share/texmf-dist/tex/generic/babel/locale/en/babel-english.tex
+Package babel Info: Importing font and identification data for english
+(babel)             from babel-en.ini. Reported on input line 11.
+)
 (/usr/share/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
 LaTeX Font Info:    Trying to load font information for T2A+cmr on input line 1
@@ -273,15 +287,15 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 \inpenc@posthook=\toks17
 )
 (/usr/share/texmf-dist/tex/latex/tools/verbatim.sty
-Package: verbatim 2020-07-07 v1.5u LaTeX2e package for verbatim enhancements
+Package: verbatim 2022-07-02 v1.5u LaTeX2e package for verbatim enhancements
 \every@verbatim=\toks18
 \verbatim@line=\toks19
 \verbatim@in@stream=\read3
 )
 (/usr/share/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-File: l3backend-pdftex.def 2022-04-14 L3 backend support: PDF output (pdfTeX)
+File: l3backend-pdftex.def 2023-01-16 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count195
-\l__pdf_internal_box=\box50
+\l__pdf_internal_box=\box51
 ) (./Tex.aux)
 \openout1 = `Tex.aux'.
 
@@ -321,7 +335,8 @@ per, 12pt]{article} []\T2A/cmr/m/n/12 ^^V
 
 [1
 
-{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}]
+{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texmf-dist/fonts
+/enc/dvips/cm-super/cm-super-t2a.enc}]
 Overfull \hbox (0.43114pt too wide) in paragraph at lines 29--30
 []\T2A/cmr/m/n/12 *четвЉртый при-мер* –ас-по-ло-же-ние ин-дек-сов, оди-ноч-ные 
 ин-дек-сы, ин-
@@ -363,7 +378,7 @@ Overfull \hbox (0.33116pt too wide) in paragraph at lines 59--60
 то пе-ре-вод). —ин-
  []
 
-[3]
+[3{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]
 Overfull \hbox (75.82576pt too wide) in paragraph at lines 102--103
 \T2A/cmr/m/n/12 рус-ско-€зыч-ной ти-по-гра-фии, сле-ду-ет ис-поль-зо-вать ко-ма
 н-ду [][]\T2A/cmtt/m/n/12 \usepackage{indentfirst} 
@@ -513,7 +528,7 @@ Overfull \hbox (350.81909pt too wide) in paragraph at lines 230--230
 LaTeX Font Info:    Trying to load font information for TS1+cmtt on input line 
 232.
 (/usr/share/texmf-dist/tex/latex/base/ts1cmtt.fd
-File: ts1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+File: ts1cmtt.fd 2022/07/10 v2.5l Standard LaTeX font definitions
 )
 Overfull \hbox (394.03354pt too wide) in paragraph at lines 246--246
 []\T2A/cmtt/m/n/12 ћожно задавать пол€рные координаты (angle:radius), можно в п
@@ -681,23 +696,21 @@ Overfull \hbox (73.01193pt too wide) in paragraph at lines 313--313
 
 [12] (./Tex.aux) ) 
 Here is how much of TeX's memory you used:
- 2258 strings out of 478238
- 35178 string characters out of 5850457
- 345374 words of memory out of 5000000
- 20521 multiletter control sequences out of 15000+600000
- 475366 words of font info for 43 fonts, out of 8000000 for 9000
- 1141 hyphenation exceptions out of 8191
- 41i,6n,52p,1768b,271s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-ts1.
-enc}{/usr/share/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t2a.enc}</usr/shar
-e/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb></usr/share/texmf-dist/f
-onts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share/texmf-dist/fonts/type1/publ
-ic/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/
-cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr
-/share/texmf-dist/fonts/type1/public/cm-super/sfbx1728.pfb></usr/share/texmf-di
-st/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf-dist/fonts/type1/
-public/cm-super/sftt1200.pfb>
-Output written on Tex.pdf (12 pages, 179633 bytes).
+ 2342 strings out of 477459
+ 37154 string characters out of 5832156
+ 1860388 words of memory out of 5000000
+ 22567 multiletter control sequences out of 15000+600000
+ 518394 words of font info for 47 fonts, out of 8000000 for 9000
+ 430 hyphenation exceptions out of 8191
+ 43i,6n,52p,1768b,271s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.
+pfb></usr/share/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></usr/share
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texmf-dist/fon
+ts/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texmf-dist/fonts/type1/public/
+amsfonts/cm/cmsy10.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfbx1
+728.pfb></usr/share/texmf-dist/fonts/type1/public/cm-super/sfrm1200.pfb></usr/s
+hare/texmf-dist/fonts/type1/public/cm-super/sftt1200.pfb>
+Output written on Tex.pdf (12 pages, 179631 bytes).
 PDF statistics:
  91 PDF objects out of 1000 (max. 8388607)
  58 compressed objects within 1 object stream

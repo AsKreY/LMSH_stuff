@@ -5,34 +5,53 @@
 \usepackage[utf8]{inputenc}
 \usepackage{tikz}
 \usetikzlibrary{intersections, through}
-
+\title{Зачет по LaTex}
+\date{}
 \begin{document}
-	\begin{equation}
-		\label{eq1}
-		f(X)=\begin{cases}
-			EX+\mathcal{L}, &x\in M_{n\times n}(\mathbb{R}) \\
-			X^T + \sqrt{\begin{vmatrix}
-					\omega & 0 & 0 \\
-					0 & \omega & 0 \\
-					0 & 0 & \omega
-			\end{vmatrix}}, &x\in M_{n\times n}(\mathbb{Z})\\
-		\varepsilon, &\text{иначе}
-		\end{cases}
-	\end{equation}
-\begin{tikzpicture}
-	\draw [step=0.5, green, thin] (-5,-5) grid (5,5);
-	\coordinate (A) at (2,2);
-	\coordinate (B) at (0,0);
-	\coordinate (E) at (1,1);
-	\coordinate (F) at (3,3);
-	%\draw [fill=orange, dashed] (A) circle (2);
-	%\node (D) [name path=D,draw, circle (2), label=above:$D$] at (A) {};
-	%\node[circle, through=(B), draw, fill=blue, label=above:$D$] (D) at (A);
-	\node (D)[name path=D, draw, circle through=(F), label=above:$D$, fill=blue] at (E) {};
-	\node (C) [name path=C,draw,circle through=(A), label=left:$C$] at (B) {};
-	\path [name intersections={of=D and C, by={[label=above:$G$]G, [label=below:$H$]H}}];
-	\draw [name path=G--H, color=red] (G) -- (H);
-	\draw (E) -- (B);
-\end{tikzpicture}\\
-Важнейшее уравнение была написано на странице \pageref{eq1}
+\maketitle{}
+\begin{itemize}
+	\item
+	$\left(
+	\begin{array}{ccccc}
+		\sqrt[3]{57\epsilon}&\ddot{\alpha}&\pi^{\beta}\\
+		A\cup B&\pmod{\sigma}&\{\parallel\}
+	\end{array}
+	\right)$
+	\phantom{S}
+	\item
+	$\left\{
+	\begin{array}{ccccccccc}
+		A&\to&\ddot{\beta}&\to&R\\
+		\downarrow&&\phantom{text}&&\downarrow\\
+		B&\supseteq&\j&\hookrightarrow&H
+	\end{array}
+	\right.$
+	\item
+	$X = \cos(\alpha)$
+	\item
+	\newpage
+\end{itemize}
+	
+\begin{enumerate}
+	\item
+	$\left(
+	\begin{array}{ccc}
+		\sqrt{x}&\log_{e^x}\sin\pi\\
+		C^{13}_{24}&\ddot{S}\\
+		\frac{arctan(\frac{\pi}{3})\cdot\ln(2^{x^6})}{\sin(\frac{\infty}{\pi})}&0
+	\end{array}
+	\right)$
+	\item
+	x $\ge$ y
+	\item
+	$\overline{AB}$ + $\overline{BC}$ = $\overline{AC}$
+	\item
+	X $\not\in (KL) \Rightarrow X \ne Y$
+	\item
+	$\sqrt[12]{omg, pls, help me} $
+	
+	
+\end{enumerate}
+
+
 \end{document}
